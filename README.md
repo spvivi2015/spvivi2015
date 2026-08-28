@@ -1,4 +1,4 @@
-# VIVI-ZHEN
+# vivi-zhen
 
 AI × 影像 × 網頁實驗者，把靈感做成可互動作品。
 
